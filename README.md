@@ -67,3 +67,5 @@ Limitations
 Individual-level income categories are ordinal, and the original analysis removed all identical records, which may remove genuinely different respondents with matching answers. Tract-level analyses rely on ACS income estimates and model-based CDC PLACES prevalence. Ecological association must not be interpreted as an individual effect. Multiple datasets, geographies, and release years have different measurement definitions. Further validation of source files and rerunning results are recommended before any policy or operational use. See [Review notes](docs/REVIEW_NOTES.md).
 Project author
 Andrew Pyasta · Information Systems and Business Analytics · Marquette University
+
+This is a personal educational portfolio of work completed during an externship, not an official TruBridge publication. Project materials should be shared publicly only with appropriate permission.
