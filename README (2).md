@@ -95,5 +95,3 @@ Individual-level income categories are ordinal, and the original analysis remove
 ## Project author
 
 **Andrew Pyasta** · Information Systems and Business Analytics · Marquette University
-
-*This is a personal educational portfolio of work completed during an externship, not an official TruBridge publication. Project materials should be shared publicly only with appropriate permission.*
