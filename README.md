@@ -1,6 +1,3 @@
-# healthcare-income-analytics
-Python and data visualization project analyzing household income, physical activity, and obesity in Wisconsin.
-
 # Healthcare Data Analytics: Income, Physical Activity & Obesity
 
 ### TruBridge Data Analytics Externship | Summer 2026
